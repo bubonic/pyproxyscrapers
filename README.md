@@ -1,2 +1,2 @@
 # pyproxyscrapers
-Python proxy scrapers from various websites. 
+Python proxy scrapers for various websites. More to come..
